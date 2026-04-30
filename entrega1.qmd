@@ -28,7 +28,7 @@ tinytex::install_tinytex()
 ```{r}
 #| label: fig-
 #| fig-cap: "Gráfico  "
-
+sdfdvd
 ```
 
 
